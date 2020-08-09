@@ -15472,7 +15472,6 @@
 ||paopao.iqiyi.com^
 ||policy.video.iqiyi.com^
 ||static.g.iqiyi.com^
-||subscription.iqiyi.com^
 ||tracker.sns.iqiyi.com^
 ||afp.iqiyi.com^
 ||paopao-monitor.iqiyi.com^
