@@ -19092,6 +19092,7 @@
 ||x.da.mgtv.com^
 ||y.da.mgtv.com^
 ||ys.da.mgtv.com^
+||video.da.mgtv.com^
 ||mgwcn.com^
 ||mgwl668.com^
 ||mgzgmyzz.com^
