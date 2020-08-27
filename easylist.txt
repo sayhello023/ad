@@ -4268,7 +4268,6 @@
 ||approped.club^
 ||appropolyfunt.site^
 ||apprupt.com^
-||appsflyer.com^
 ||advancedtracker.appspot.com^
 ||amp-error-reporting.appspot.com^
 ||axislogger.appspot.com^
@@ -5793,7 +5792,6 @@
 ||bitcoset.com^
 ||vserv.bc.cdn.bitgravity.com^
 ||g.bitmag.com.br^
-||licensing.bitmovin.com^
 ||bitonclick.com^
 ||api.bitp.it^
 ||bitraffic.com^
