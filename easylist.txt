@@ -19102,7 +19102,6 @@
 ||mobile2.da.mgtv.com^
 ||pc.da.mgtv.com^
 ||pc1.da.mgtv.com^
-||pcvideoaliyun.titan.mgtv.com^
 ||pcvideoyd.titan.mgtv.com^
 ||pcweb-v1.log.mgtv.com^
 ||pcweb.v1.mgtv.com^
