@@ -16,7 +16,6 @@
 ||hpplay.cdn.cibn.cc^
 ||image.hpplay.cn^
 ||gslb.hpplay.cn^
-||rp.hpplay.cn^
 ||cdn.hpplay.com.cn^
 ||h5.hpplay.com.cn^
 ||adeng.hpplay.cn^
