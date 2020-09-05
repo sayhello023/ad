@@ -4,7 +4,6 @@
 !TOTAL_LINES=34179
 ||h5.hpplay.com.cn^
 ||hpplay.cdn.cibn.cc^
-||sdkauth.hpplay.cn^
 ||imdns.hpplay.cn^
 ||vipauth.hpplay.cn^
 ||sl.hpplay.cn^
