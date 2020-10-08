@@ -1,4 +1,28 @@
-﻿##乐播投屏广告
+﻿添加
+||h5.hpplay.com.cn^
+||hpplay.cdn.cibn.cc^
+||imdns.hpplay.cn^
+||vipauth.hpplay.cn^
+||sl.hpplay.cn^
+||519332DA.rtc.youme.im^
+||hotupgrade.hpplay.cn^
+||tvapp.hpplay.cn^
+||image.hpplay.cn^
+||gslb.hpplay.cn^
+||cdn.hpplay.com.cn^
+||adeng.hpplay.cn^
+||conf.hpplay.cn^
+||adcdn.hpplay.cn^
+||pin.hpplay.cn^
+||rp.hpplay.cn^
+||video.da.mgtv.com^
+
+删除
+||hpplay.cn^
+||subscription.iqiyi.com^
+
+
+##乐播投屏广告
 ||h5.hpplay.com.cn^
 ||hpplay.cdn.cibn.cc^
 ||rp.hpplay.cn^
@@ -16,13 +40,16 @@
 ||adcdn.hpplay.cn^
 ||pin.hpplay.cn^
 
+##
+||sdkauth.hpplay.cn^  韩剧tv屏蔽后无法使用
+
 ##芒果tv电视版开始广告
 ||video.da.mgtv.com^
-||pcvideoaliyun.titan.mgtv.com^
+||pcvideoaliyun.titan.mgtv.com^已有
 
 ##爱奇艺不需要屏蔽的广告
 ||subscription.iqiyi.com^
-||baiducdncnc.inter.iqiyi.com^
+||baiducdncnc.inter.iqiyi.com^已删
 
 
 ##流媒体分流域名
